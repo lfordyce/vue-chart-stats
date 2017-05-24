@@ -33,6 +33,9 @@
   import axios from 'axios'
   import LineChart from '@/components/LineChart'
 
+
+  
+
   export default {
     components: {
       LineChart
